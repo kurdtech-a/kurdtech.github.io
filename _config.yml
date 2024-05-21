@@ -1,5 +1,6 @@
 title: Kavan Mavati
 logo: /Photo/KurdTech logo 1.JPG
 description: Coming Soon
-show_downloads: true
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
